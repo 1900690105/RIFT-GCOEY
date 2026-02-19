@@ -84,7 +84,7 @@ Clopidogrel, Codeine
 ### 1️⃣ Clone Repo
 
 ```
-git clone https://github.com/1900690105/RIFT-GCOEY
+git clone https://github.com/1900690105/RIFT-GCOEY.git
 cd RIFT-GCOEY
 ```
 
